@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clients">Clients</string>
+    <string name="add_client">Add Client</string>
+    <string name="profile">Profile</string>
+    <string name="name">name</string>
+    <string name="order">order</string>
+    <string name="terms">terms</string>
+    <string name="save">save</string>
+    <string name="date_label">date_label</string>
+    <string name="proposal_button">proposal_button</string>
+    <string name="files">files</string>
+    <string name="profile_preference_key">profile</string>
+    <string name="profile_name_key">name_key</string>
+    <string name="profile_name_default" />
+    <string name="profile_name">profile_name</string>
+    <string name="profile_success">Success</string>
+    <string name="picture_button">picture_button</string>
+</resources>
